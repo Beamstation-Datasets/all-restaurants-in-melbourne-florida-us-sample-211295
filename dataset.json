@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Melbourne, Florida. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Melbourne, Florida, US",
+  "export_job_id": "066faf29-1916-4ffa-8610-aeae70cea143",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 211295,
+  "location_name": "Melbourne",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-melbourne-florida-us-sample-211295",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/211295/beamstation_211295_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_pct": 9.43,
+  "sample_records": 25,
+  "sample_sha256": "5b9214ad10f3a9fd26e712001e68eea126333c723be3125ff443045b28685f3d",
+  "sample_size_bytes": 115617,
+  "total_records": 265,
+  "updated_at": "2026-03-31T17:16:26.347003+00:00"
+}
