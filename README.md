@@ -1,6 +1,6 @@
 # All Restaurants in Melbourne, Florida, US
 
-> Free BeamStation sample export with 37 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `211295` |
 | Location | Melbourne |
 | Category | Restaurants |
-| Full dataset size | 375 records |
-| Free sample size | 37 records (9.87%) |
-| Last export | 2026-04-14T18:10:02.889826+00:00 |
+| Full dataset size | 286 records |
+| Free sample size | 28 records (9.79%) |
+| Last export | 2026-04-21T20:01:08.422323+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-melbourne-florida-us-sample-211295/releases/download/sample-latest/beamstation_211295_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
