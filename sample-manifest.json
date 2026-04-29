@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9549315d-6089-4087-b3fb-f980c6708529",
+  "export_job_id": "f3af0fcd-5fc7-4817-b7e1-42eaecd4bdbc",
   "id_short": 211295,
-  "published_at": "2026-04-22T07:12:42Z",
+  "published_at": "2026-04-29T07:25:35Z",
   "repo_name": "all-restaurants-in-melbourne-florida-us-sample-211295",
   "sample_asset_name": "beamstation_211295_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/211295/beamstation_211295_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "959deda31a0ed5194e63e15e940477023ce62cc1d76e66cff621a7f189b7e8b9",
-  "sample_size_bytes": 96623,
-  "total_records": 286
+  "sample_records": 39,
+  "sample_sha256": "efe00a3336129e9894a538707238a043437e79629e5df2c39a6c121023e3e0fd",
+  "sample_size_bytes": 160076,
+  "total_records": 394
 }
